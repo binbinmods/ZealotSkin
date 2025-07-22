@@ -1,0 +1,15 @@
+{
+  "BaseSkin": false,
+  "PerkLevel": 0,
+  "SkinGO": "skinzealotskin",
+  "SkinID": "zealotskinbase",
+  "SkinName": "Zealot",
+  "SkinOrder": 0,
+  "SkinSubclass": "paladin",
+  "Sku": "",
+  "SpritePortrait": "zealotSkinPortrait",
+  "SpritePortraitGrande": "zealotSkinPortraitGrande",
+  "SpriteSilueta": "zealotSkinSilueta",
+  "SpriteSiluetaGrande": "zealotSkinSiluetaGrande",
+  "SteamStat": ""
+}

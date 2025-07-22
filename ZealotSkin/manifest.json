@@ -1,0 +1,10 @@
+{
+  "name": "Zealot_Skin",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/binbinmods/ZealotSkin",
+  "description": "Skin for Laia, adding a Zealot/Fiery appearance to the Vanguard skin.",
+  "dependencies": [
+    "meds-Obeliskial_Content-1.5.0",
+    "meds-Obeliskial_Essentials-1.4.6"
+  ]
+}
